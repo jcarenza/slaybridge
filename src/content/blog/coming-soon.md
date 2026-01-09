@@ -2,7 +2,7 @@
 title: "Building Software the Right Way"
 description: "Why we believe exceptional software starts with exceptional product thinking, and how that philosophy shapes everything we do at Slaybridge."
 image: "/images/blog-1.jpg"
-date: 2025-01-08T05:00:00Z
+date: 2026-01-08T05:00:00Z
 draft: false
 ---
 
