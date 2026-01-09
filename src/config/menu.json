@@ -1,0 +1,61 @@
+{
+  "main": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "About",
+      "url": "/about"
+    },
+    {
+      "name": "Services",
+      "url": "/services"
+    },
+    {
+      "name": "Blog",
+      "url": "/blog"
+    },
+    {
+      "name": "Contact",
+      "url": "/contact"
+    }
+  ],
+  "footer": [
+    {
+      "name": "Company",
+      "menu": [
+        {
+          "text": "About",
+          "url": "/about"
+        },
+        {
+          "text": "Services",
+          "url": "/services"
+        },
+        {
+          "text": "Contact",
+          "url": "/contact"
+        }
+      ]
+    },
+    {
+      "name": "Resources",
+      "menu": [
+        {
+          "text": "Blog",
+          "url": "/blog"
+        }
+      ]
+    },
+    {
+      "name": "Legal",
+      "menu": [
+        {
+          "text": "Privacy Policy",
+          "url": "/privacy-policy"
+        }
+      ]
+    }
+  ]
+}

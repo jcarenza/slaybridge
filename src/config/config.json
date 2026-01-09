@@ -1,0 +1,40 @@
+{
+  "site": {
+    "title": "Slaybridge - Exceptional by Design",
+    "base_url": "https://slaybridge.com",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/images/favicon.png",
+    "logo": "/images/slaybridge-logo.svg",
+    "logo_width": "200",
+    "logo_height": "60",
+    "logo_text": "Slaybridge"
+  },
+
+  "settings": {
+    "pagination": 6,
+    "summary_length": 200
+  },
+
+  "nav_button": {
+    "enable": true,
+    "label": "Get in Touch",
+    "link": "/contact"
+  },
+
+  "params": {
+    "contact_form_action": "#",
+    "footer_content": "Slaybridge delivers exceptional software solutions through expert product design and development. Based in Kansas City, Missouri, we bridge the gap between vision and reality.",
+    "copyright": "© 2026 Slaybridge LLC. All rights reserved."
+  },
+
+  "metadata": {
+    "meta_author": "Slaybridge",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Exceptional software consulting and product design services. We bridge strategy, design, and development to create outstanding digital solutions."
+  },
+  "google_tag_manager": {
+    "enable": false,
+    "gtm_id": "GTM-XXXXXX"
+  }
+}
