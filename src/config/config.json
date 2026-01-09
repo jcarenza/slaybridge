@@ -5,7 +5,7 @@
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
-    "logo": "/images/slaybridge-logo.svg",
+    "logo": "/images/slaybridge.svg",
     "logo_width": "200",
     "logo_height": "60",
     "logo_text": "Slaybridge"

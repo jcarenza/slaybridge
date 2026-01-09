@@ -13,10 +13,6 @@
       "url": "/services"
     },
     {
-      "name": "Blog",
-      "url": "/blog"
-    },
-    {
       "name": "Contact",
       "url": "/contact"
     }
@@ -36,15 +32,6 @@
         {
           "text": "Contact",
           "url": "/contact"
-        }
-      ]
-    },
-    {
-      "name": "Resources",
-      "menu": [
-        {
-          "text": "Blog",
-          "url": "/blog"
         }
       ]
     },
